@@ -6,7 +6,6 @@ This is a driver that we can use it to call power (regulator) when we want
 Version: 1.0.0
 Author: Nguyen Van Huynh Y
 Date: 2022-05-01
---------------------------------------------------------------------------
 
 **How to use this driver for android**
 
