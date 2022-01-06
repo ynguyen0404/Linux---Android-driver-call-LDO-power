@@ -2,7 +2,7 @@
 This is a driver that we can use it to call power (regulator) when we want
 
 
-Release Note:
+**Release Note:**
  - Version: 1.0.0
  - Author: Nguyen Van Huynh Y
  - Date: 2022-05-01
