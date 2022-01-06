@@ -1,0 +1,5 @@
+# Generic Trusted Execution Environment Configuration
+config POWERCONFIG
+	bool "POWERCONFIG"
+	help
+	    Say Y here to add driver styl_powerconfig.
